@@ -1,0 +1,6 @@
+x = str("s1")
+y = (2)
+z = (3.0)
+print(x)
+print(y)
+print(z)
