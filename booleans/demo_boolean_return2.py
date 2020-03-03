@@ -1,6 +1,6 @@
-def myfunction()
+def myfunction() :
   return True
-if myfunction ()
+if myfunction () :
   print("Yes!")
 else:
-    print("No!")
+  print("No!")
