@@ -1,0 +1,1 @@
+print('resul1')
