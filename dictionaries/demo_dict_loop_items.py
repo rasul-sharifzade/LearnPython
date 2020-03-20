@@ -3,5 +3,5 @@ thisdict = {
     "model":'mustang'
     'year':'1964'
 }
-for x, y in thisdictitems():
+for x, y in thisdict.items():
     print(x, y)
