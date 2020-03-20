@@ -1,6 +1,6 @@
 thisdict = {
-    "brand":'ford'
-    "model":'mustang'
+    "brand":'ford',
+    "model":"mustang",
     'year':'1964'
 }
 for x, y in thisdict.items():
