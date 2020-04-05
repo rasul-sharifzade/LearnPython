@@ -1,3 +1,3 @@
-fruit = ["apple", "banana", "cherry"]
+fruits = ["apple", "banana", "cherry"]
 fruits.clear()
 print(fruits)
