@@ -1,6 +1,13 @@
+def listSummer(list):
+   print(r + u + t + y + u)
+
+
+
 thislist = [2,3,4,5,6]
-def listSummer(r,u,t,y,f):
-    print(r + u + t + y + f)
+listSummer(thislist) #20
 
+thislist = [15, 23]
+listSummer(thislist) #38
 
-listSummer(2,3,4,5,6)
+thislist = [14, 89,36,55,11,52]
+listSummer(thislist) #257
